@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chuoi8inches
+- 👋 Hi, I’m Anh Nguyen
 - 🌱 I’m currently learning computer sience
 - 💞️ I’m looking to collaborate on software development
 - 📫 Reach me by email anhnguyenhuu9a1@gmail.com
